@@ -1,0 +1,10 @@
+time: 0 ms
+length dir: 8
+11: for save\Sat May 19 10-55-13 MSK 2018.txt
+11: for save\Sat May 19 10-55-10 MSK 2018.txt
+8: for save\Sat May 19 10-55-07 MSK 2018.txt
+7: for save\Sat May 19 10-54-03 MSK 2018.txt
+7: for save\Sat May 19 10-55-06 MSK 2018.txt
+4: for save\Sat May 19 08-57-54 MSK 2018.txt
+2: for save\Sat May 19 08-30-15 MSK 2018.txt
+0: for save\Sat May 19 10-49-25 MSK 2018.txt
